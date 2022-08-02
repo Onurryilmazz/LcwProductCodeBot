@@ -1,1 +1,1 @@
-worker: python main.py -p $5000
+worker: python main.py
