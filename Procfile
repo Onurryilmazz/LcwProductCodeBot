@@ -1,1 +1,1 @@
-worker: gunicorn python main.py
+web: gunicorn app:main
